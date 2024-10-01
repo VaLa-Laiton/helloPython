@@ -3,9 +3,9 @@ print('Hello Python 👋')
 
 """ 
 Multiline Comments:
-Math Operations
+Basic Math Operations
 """
-print('--- Math Operations ---')
+print('--- Basic Math Operations ---')
 
 print('Addition: 3+2 =', 3+2)
 print('Subtraction: 3-2 =', 3-2)
